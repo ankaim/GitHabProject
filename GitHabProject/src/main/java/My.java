@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * @author ${User} on ${Date}
  * @project GitHabProject
